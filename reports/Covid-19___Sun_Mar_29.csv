@@ -1,0 +1,183 @@
+,Location,Confirmed cases,Cases per 1M people,Recovered,Deaths
+0,Worldwide,710290,100.80,150734,33550
+1,United States,135502,414.27,4378,2384
+2,Italy,97689,1546.56,13030,10779
+3,China,81439,59.30,75448,3300
+4,Spain,78799,1590.28,14709,6606
+5,Germany,61164,744.66,5024,489
+6,Iran,38309,472.99,12391,2640
+7,France,37611,556.65,5700,2314
+8,United Kingdom,19522,300.83,140,1228
+9,Switzerland,14799,2181.13,1823,300
+10,Netherlands,10923,670.78,—,772
+11,Belgium,10836,1051.30,1359,431
+12,South Korea,9583,187.76,5033,152
+13,Turkey,9217,110.11,105,131
+14,Austria,8711,1111.67,479,86
+15,Canada,6228,180.25,482,63
+16,Portugal,5962,558.41,43,119
+17,Norway,4244,796.41,—,25
+18,Australia,3980,173.88,226,16
+19,Brazil,3904,18.94,6,117
+20,Israel,3865,338.94,89,13
+21,Sweden,3719,369.98,18,121
+22,Czechia,2775,260.57,11,16
+23,Denmark,2564,462.07,—,72
+24,Malaysia,2470,74.33,388,34
+25,Ireland,2415,462.36,5,36
+26,Chile,2139,122.37,75,7
+27,Luxembourg,1950,2435.72,40,21
+28,Poland,1862,50.08,23,22
+29,Ecuador,1835,110.84,3,48
+30,Romania,1815,84.56,206,43
+31,Japan,1693,13.35,404,52
+32,Pakistan,1560,7.76,28,14
+33,Russia,1534,10.72,64,8
+34,Philippines,1418,13.60,42,71
+35,Thailand,1388,20.72,111,7
+36,Saudi Arabia,1299,45.94,37,8
+37,Indonesia,1285,4.93,64,114
+38,Finland,1218,224.45,10,9
+39,South Africa,1187,21.40,31,1
+40,Greece,1061,98.44,52,39
+41,India,1024,0.81,96,27
+42,Iceland,1020,3017.85,124,2
+43,Panama,901,244.49,4,17
+44,Mexico,848,6.73,4,16
+45,Singapore,844,180.42,212,3
+46,Argentina,745,16.40,51,19
+47,Serbia,741,91.88,42,13
+48,Slovenia,730,416.33,10,11
+49,Dominican Republic,719,67.85,3,28
+50,Croatia,713,152.15,52,6
+51,Estonia,679,530.72,20,3
+52,Peru,671,21.40,16,16
+53,Hong Kong,641,62.35,118,4
+54,Egypt,609,6.08,132,40
+55,Colombia,608,12.86,10,6
+56,Qatar,590,255.35,45,1
+57,United Arab Emirates,570,108.59,58,3
+58,Iraq,547,13.39,143,42
+59,Algeria,511,12.34,31,29
+60,Bahrain,499,356.68,272,4
+61,New Zealand,476,106.20,56,1
+62,Morocco,463,13.78,13,26
+63,Lebanon,438,70.54,32,10
+64,Lithuania,437,146.49,1,7
+65,Armenia,424,168.66,30,3
+66,Ukraine,418,9.75,5,9
+67,Hungary,408,40.77,34,13
+68,Latvia,347,184.87,1,0
+69,Bulgaria,346,51.87,14,8
+70,Andorra,334,4384.53,6,6
+71,Bosnia and Herzegovina,323,98.61,8,6
+72,Slovakia,314,52.33,7,0
+73,Uruguay,304,93.53,0,1
+74,Taiwan,298,12.49,39,2
+75,Costa Rica,295,58.53,3,2
+76,Tunisia,278,24.70,1,8
+77,Kazakhstan,271,13.93,18,1
+78,North Macedonia,259,124.69,3,6
+79,Kuwait,255,90.16,67,0
+80,Jordan,246,28.02,18,1
+81,Moldova,231,58.83,11,2
+82,San Marino,229,6867.80,12,24
+83,Cyprus,214,173.21,18,6
+84,Albania,212,70.61,40,10
+85,Azerbaijan,209,19.90,15,4
+86,Burkina Faso,207,10.69,21,11
+87,Vietnam,188,1.92,25,0
+88,Oman,167,39.68,23,0
+89,Ghana,152,5.30,2,5
+90,Malta,151,357.05,2,0
+91,Uzbekistan,144,5.32,7,2
+92,Senegal,142,9.53,27,0
+93,Côte d'Ivoire,140,5.90,3,0
+94,Cuba,139,12.48,4,3
+95,Brunei,126,365.71,34,1
+96,Afghanistan,120,3.57,2,4
+97,Venezuela,119,3.77,39,2
+98,Sri Lanka,117,5.22,11,1
+99,Cameroon,113,4.63,2,2
+100,Honduras,110,11.98,0,2
+101,Mauritius,107,78.64,0,2
+102,Palestine,106,20.98,18,1
+103,Cambodia,103,6.57,21,0
+104,Nigeria,97,0.50,3,1
+105,Belarus,94,9.74,32,0
+106,Georgia,91,19.21,18,0
+107,Kosovo,88,50.99,1,1
+108,Montenegro,85,141.93,0,1
+109,Kyrgyzstan,84,11.56,0,0
+110,Bolivia,81,7.30,0,0
+111,Trinidad and Tobago,76,62.44,1,3
+112,Democratic Republic of the Congo,65,0.74,2,6
+113,Jersey,63,615.14,—,2
+114,Liechtenstein,61,590.50,12,0
+115,Northern Cyprus,61,187.12,29,1
+116,Rwanda,60,5.26,0,0
+117,Paraguay,59,8.50,1,3
+118,Bangladesh,48,0.29,15,5
+119,Guernsey,45,709.34,—,0
+120,Monaco,43,1122.72,1,0
+121,Isle of Man,42,477.62,0,0
+122,Kenya,42,0.86,1,1
+123,Madagascar,39,1.56,0,0
+124,Macao,37,66.58,10,0
+125,Guatemala,34,2.31,10,1
+126,Jamaica,30,10.01,2,1
+127,Togo,30,3.68,7,1
+128,Uganda,30,0.82,0,0
+129,Zambia,29,1.91,0,0
+130,Barbados,26,89.35,0,0
+131,El Salvador,24,3.73,0,0
+132,Ethiopia,19,0.18,1,0
+133,Republic of the Congo,19,5.56,0,0
+134,Mali,18,0.95,0,1
+135,Niger,18,1.04,0,1
+136,Maldives,17,43.94,11,0
+137,Guinea,16,1.30,1,0
+138,Djibouti,14,18.16,0,0
+139,Tanzania,14,0.25,0,0
+140,Equatorial Guinea,12,17.56,0,0
+141,Mongolia,12,4.06,0,0
+142,Dominica,11,155.86,0,0
+143,Namibia,11,5.23,2,0
+144,The Bahamas,10,30.28,0,0
+145,Eswatini,9,7.92,0,0
+146,Grenada,9,81.57,0,0
+147,Syria,9,0.54,0,1
+148,Guyana,8,11.08,0,1
+149,Haiti,8,0.74,0,0
+150,Laos,8,0.89,0,0
+151,Libya,8,1.19,0,0
+152,Mozambique,8,0.31,0,0
+153,Myanmar (Burma),8,—,0,0
+154,Seychelles,8,82.88,0,0
+155,Suriname,8,13.92,0,0
+156,Antigua and Barbuda,7,73.66,0,0
+157,Gabon,7,3.60,0,1
+158,Zimbabwe,7,0.50,0,1
+159,Benin,6,0.62,0,0
+160,Cape Verde,6,10.71,0,1
+161,Eritrea,6,0.93,0,0
+162,Vatican City,6,—,0,0
+163,Angola,5,0.17,0,0
+164,Fiji,5,5.41,0,0
+165,Mauritania,5,1.56,0,0
+166,Nepal,5,0.13,1,0
+167,Sudan,5,0.13,0,1
+168,Bhutan,4,7.31,0,0
+169,Nicaragua,4,0.68,0,1
+170,Saint Lucia,4,24.01,0,0
+171,Central African Republic,3,0.58,0,0
+172,Chad,3,0.24,0,0
+173,Liberia,3,0.54,0,0
+174,Somalia,3,0.29,0,0
+175,The Gambia,3,1.29,0,1
+176,Belize,2,4.26,0,0
+177,Guinea-Bissau,2,1.17,0,0
+178,Saint Kitts and Nevis,2,37.66,0,0
+179,Papua New Guinea,1,0.14,0,0
+180,Saint Vincent and the Grenadines,1,9.97,1,0
+181,Timor-Leste,1,0.68,0,0
